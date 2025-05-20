@@ -1,4 +1,4 @@
-# Notes-Python-DevOps
+# Python-DevOps-Notes
 
 ## 1: Introduction to Python, Installation, and Configuration
 - Introduction to Python and its role in DevOps.
@@ -92,9 +92,3 @@
 - How to handle API calls and deploy your API to a server.
 - Practice exercises and examples:
   - Example: Write a Python API which listens on a github comment and creates a ticket in JIRA.
-
-## 16: Python Interview Questions & Answers
-- Beginner and intermediate Level
-
-## 17: Python Interview Questions & Answers
-- Advanced Level
